@@ -15,6 +15,10 @@ To get a local copy up and running follow these simple example steps.
 - cd to /dist folder
 - Open index.html in browser
 
+## Live Demo
+
+[Live Demo Link](https://marcosmerida.github.io/To-Do-List-JsBestPractices/dist/)
+
 ### Prerequisites
 
 - IDE to edit and run the code (I've used Visual Studio Code 🔥).
